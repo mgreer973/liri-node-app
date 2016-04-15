@@ -1,0 +1,48 @@
+artist: U2
+song name: Sunday Bloody Sunday
+preview link: https://api.spotify.com/v1/tracks/6Pztn1vmTohZrFICkaDOEa
+album: U218 Singles
+0artist: U2
+song name: Sunday Bloody Sunday
+preview link: https://api.spotify.com/v1/tracks/6Pztn1vmTohZrFICkaDOEa
+album: U218 Singles
+
+artist: U2
+song name: With Or Without You
+preview link: https://api.spotify.com/v1/tracks/6QPhpvO1pWDS91EsEmzsbc
+album: U218 Singles
+
+artist: Pentatonix
+song name: New Year's Day
+preview link: https://api.spotify.com/v1/tracks/4eSbzAw4DZ3tmO4eiVgnQF
+album: Pentatonix (Deluxe Version)
+
+artist: Backstreet Boys
+song name: I Want It That Way
+preview link: https://api.spotify.com/v1/tracks/6e40mgJiCid5HRAGrbpGA6
+album: The Hits--Chapter One
+
+Tweet: were in week 10 starting the fun stuff learning node.js
+Created: Fri Apr 08 16:14:32 +0000 2016
+
+Tweet: Been attending Rutgers Coding Bootcamp (RCB)
+Created: Fri Apr 08 16:13:21 +0000 2016
+
+Tweet: just starting this account again forgot all about it
+Created: Fri Apr 08 16:12:12 +0000 2016
+
+Title: Watchmen
+Year: 2009
+IMDB Rating: 7.6
+Country: USA
+Language: English
+Plot: In an alternate 1985 where former superheroes exist, the murder of a colleague sends active vigilante Rorschach into his own sprawling investigation, uncovering something that could completely change the course of history as we know it.
+Actors: Malin Akerman, Billy Crudup, Matthew Goode, Jackie Earle Haley
+Rotten Tomatoes Rating: 6.3
+Rotten Tomatoes URL: http://www.rottentomatoes.com/m/watchmen/
+
+artist: U2
+song name: With Or Without You
+preview link: https://api.spotify.com/v1/tracks/6QPhpvO1pWDS91EsEmzsbc
+album: U218 Singles
+
